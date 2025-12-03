@@ -1,8 +1,25 @@
-# React + Vite
+# Spotify Playlist Finder 🎵
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple app to search and discover Spotify playlists. Built to practice front-end development, API integration, and creating a clean, user-friendly interface.
 
-Currently, two official plugins are available:
+## 🛠 Technologies Used
+- React.js  
+- JavaScript  
+- Spotify API  
+- CSS / Responsive Design  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔍 Features
+- Search for playlists by name  
+- View playlist details (tracks, followers, etc.)  
+- Simple and intuitive UI for better usability  
+
+## 💡 What I Learned / Contributions
+- Integrated Spotify API and handled API responses  
+- Managed component state using React hooks  
+- Customized UI and layout for a cleaner design  
+- Practiced understanding and modifying existing code  
+
+## 🚀 How to Run
+1. Clone the repo  
+2. Install dependencies: `npm install`  
+3. Start the app: `npm start`  
